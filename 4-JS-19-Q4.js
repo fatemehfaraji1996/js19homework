@@ -2,6 +2,8 @@
 // hint: watch help.mp4
 //! answer
 //******************************* */
+
+
 const istarsEle = document.querySelectorAll("i")
 
   istarsEle.forEach(element => {

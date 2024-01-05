@@ -2,6 +2,7 @@
 // hint: watch help.mp4
 // !Answer:
 //************************************ */
+
 const like = document.querySelector(".ri-heart-3-line")
 const numberEle = document.querySelector("#counter")
 console.log(like);

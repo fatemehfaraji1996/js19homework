@@ -17,6 +17,8 @@ let positionY = 0;
 
 
 
+
+
 document.addEventListener('keydown', moveCircle);
 
 function moveCircle(e) {
